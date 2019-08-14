@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TopProgrammingLanguange</string>
+    <string name="languange_name">languange name</string>
+    <string name="developer">developer</string>
+    <string name="description">Description</string>
+    <string name="inventor">inventor</string>
+    <string name="name">Name</string>
+    <string name="foto">foto</string>
+    <string name="nama_guwe">Muhammad Irsyad Ashari</string>
+    <string name="email_guuwe">irsyad.ashari71@gmail.com</string>
+</resources>
